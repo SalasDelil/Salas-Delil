@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 As passionate Frontend Developer and UI Designer, I thrive on transforming ideas into captivating digital experiences. 💻
+🚀 As passionate Frontend Developer and UI/UX Designer, I thrive on transforming ideas into captivating digital experiences. 💻
 
 🌿 My tech-devotee spirit drives my insatiable curiosity to explore new frontiers in web development. From crafting elegant user interfaces to weaving seamless user journeys, I'm on a perpetual quest to create exceptional digital landscapes.
 
